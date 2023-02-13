@@ -5,4 +5,4 @@ This was created as power settings were unable to influence the eventual sleep t
 
 You can either take the AutoIT script and compile your own EXE or use the provided EXE which was compiled from the AutoIT script.
 
-Then take the EXE and have it launch via the registry, startup folder, GPO, scheduled task at startup/logon.  It has been tested with a logged in user on Windows 10.
+Then take the EXE and have it launch via the registry, startup folder, GPO, or scheduled task at startup/logon.  It has been tested with a logged in user on Windows 10.
